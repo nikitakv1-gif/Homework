@@ -1,0 +1,15 @@
+C:\коды\C#\Wasp\HM\HM1\bin\Debug\net6.0\HM1.exe
+C:\коды\C#\Wasp\HM\HM1\bin\Debug\net6.0\HM1.deps.json
+C:\коды\C#\Wasp\HM\HM1\bin\Debug\net6.0\HM1.runtimeconfig.json
+C:\коды\C#\Wasp\HM\HM1\bin\Debug\net6.0\HM1.dll
+C:\коды\C#\Wasp\HM\HM1\bin\Debug\net6.0\HM1.pdb
+C:\коды\C#\Wasp\HM\HM1\obj\Debug\net6.0\HM1.csproj.AssemblyReference.cache
+C:\коды\C#\Wasp\HM\HM1\obj\Debug\net6.0\HM1.GeneratedMSBuildEditorConfig.editorconfig
+C:\коды\C#\Wasp\HM\HM1\obj\Debug\net6.0\HM1.AssemblyInfoInputs.cache
+C:\коды\C#\Wasp\HM\HM1\obj\Debug\net6.0\HM1.AssemblyInfo.cs
+C:\коды\C#\Wasp\HM\HM1\obj\Debug\net6.0\HM1.csproj.CoreCompileInputs.cache
+C:\коды\C#\Wasp\HM\HM1\obj\Debug\net6.0\HM1.dll
+C:\коды\C#\Wasp\HM\HM1\obj\Debug\net6.0\refint\HM1.dll
+C:\коды\C#\Wasp\HM\HM1\obj\Debug\net6.0\HM1.pdb
+C:\коды\C#\Wasp\HM\HM1\obj\Debug\net6.0\HM1.genruntimeconfig.cache
+C:\коды\C#\Wasp\HM\HM1\obj\Debug\net6.0\ref\HM1.dll
