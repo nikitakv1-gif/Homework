@@ -1,0 +1,15 @@
+C:\коды\C#\Wasp\HM\musicshop\obj\Debug\net6.0\HM.csproj.AssemblyReference.cache
+C:\коды\C#\Wasp\HM\musicshop\obj\Debug\net6.0\HM.GeneratedMSBuildEditorConfig.editorconfig
+C:\коды\C#\Wasp\HM\musicshop\obj\Debug\net6.0\HM.AssemblyInfoInputs.cache
+C:\коды\C#\Wasp\HM\musicshop\obj\Debug\net6.0\HM.AssemblyInfo.cs
+C:\коды\C#\Wasp\HM\musicshop\obj\Debug\net6.0\HM.csproj.CoreCompileInputs.cache
+C:\коды\C#\Wasp\HM\musicshop\bin\Debug\net6.0\HM.exe
+C:\коды\C#\Wasp\HM\musicshop\bin\Debug\net6.0\HM.deps.json
+C:\коды\C#\Wasp\HM\musicshop\bin\Debug\net6.0\HM.runtimeconfig.json
+C:\коды\C#\Wasp\HM\musicshop\bin\Debug\net6.0\HM.dll
+C:\коды\C#\Wasp\HM\musicshop\bin\Debug\net6.0\HM.pdb
+C:\коды\C#\Wasp\HM\musicshop\obj\Debug\net6.0\HM.dll
+C:\коды\C#\Wasp\HM\musicshop\obj\Debug\net6.0\refint\HM.dll
+C:\коды\C#\Wasp\HM\musicshop\obj\Debug\net6.0\HM.pdb
+C:\коды\C#\Wasp\HM\musicshop\obj\Debug\net6.0\HM.genruntimeconfig.cache
+C:\коды\C#\Wasp\HM\musicshop\obj\Debug\net6.0\ref\HM.dll
