@@ -20,7 +20,7 @@ namespace musicshop
 
             Console.WriteLine(mylib.ToString());
 
-            audio1.Burn();
+            audio1.Burn("3Name", "3Genre", "3Song", "3Studio", "12");
 
             Console.WriteLine(audio1.Name + " " +  audio1.DiskSize);
             Console.WriteLine(audio2.Name + " " +  audio2.DiskSize);

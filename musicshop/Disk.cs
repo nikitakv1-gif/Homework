@@ -39,7 +39,11 @@ namespace musicshop
         public override int DiskSize { get =>SongsNumber*8;}
         public override void Burn(params string[] values)
         {
-            // непонял значение какого поля должен переопределять
+            Name = values[0];
+            Genre = values[1];
+            Artist = values[2];
+            RecordingStudio = values[3];
+            SongsNumber = Convert.ToInt32(values[4]);
             BurnCount++;
         }
         public override string ToString()
@@ -62,6 +66,11 @@ namespace musicshop
         public override int DiskSize { get => (MinutesCount / 64) * 2;}
         public override void Burn(params string[] values)
         {
+            Name = values[0];
+            Genre = values[1];
+            Producer = values[2];
+            FilmCompany = values[3];
+            MinutesCount = Convert.ToInt32(values[4]);
             BurnCount++;
         }
         public override string ToString()
