@@ -19,21 +19,25 @@ namespace musicshop
             audios  = new List<Audio>();
             videos = new List<DVD>();
         }
-        public void addaudio (Audio audio)
+        public static Store operator +(Store str, Audio audio)
         {
-            audios.Add(audio);
+            str.audios.Add(audio);
+            return str;
         }
-        public void addvideo (DVD video)
+        public static Store operator +(Store str, DVD video)
         {
-            videos.Add(video);
+            str.videos.Add(video);
+            return str;
         }
-        public void delaudio (Audio audio)
+        public static Store operator -(Store str, Audio audio)
         {
-            audios.Remove(audio);
+            str.audios.Remove(audio);
+            return str;
         }
-        public void delaudio (DVD video)
+        public static Store operator -(Store str, DVD video)
         {
-            videos.Remove(video);
+            str.videos.Remove(video);
+            return str;
         }
         public override string ToString()
         {

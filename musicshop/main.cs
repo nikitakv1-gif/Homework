@@ -13,10 +13,10 @@ namespace musicshop
             DVD video1 = new DVD("1Name", "1Genre", "1producer", "1FilmCompany", 160);
             DVD video2 = new DVD("2Name", "2Genre", "2producer", "2FilmCompany", 170);
 
-            mylib.addaudio(audio1);
-            mylib.addaudio(audio2);
-            mylib.addvideo(video1);
-            mylib.addvideo(video2);
+            mylib = mylib + audio1;
+            mylib = mylib + audio2;
+            mylib = mylib + video1;
+            mylib = mylib + video2;
 
             Console.WriteLine(mylib.ToString());
 
